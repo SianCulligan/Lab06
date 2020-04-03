@@ -10,6 +10,8 @@ Resource Links:
 - [Sonia's Lecture](https://www.youtube.com/watch?v=c7Fk4lbaMqM)
 - [Stack Overflow - to kick off json-server](https://stackoverflow.com/questions/33935281/command-not-found-oh-my-zsh)
 
+Swagger Documentation
+- [Swagger Doc Link](https://app.swaggerhub.com/apis-docs/SianCulligan/default-title/0.1)
 
 Setup/How to initialize & run your application 
 - run ``json-server --watch ./data/db.json`` from the root. 
