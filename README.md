@@ -1,41 +1,21 @@
 # Lab06
 
-dragonfly 
+Author: Sian Culligan
 
-*dragonfly*
+Links and Resources
+- submission PR
 
-</br>
 
-dragonfly
+Setup/How to initialize & run your application 
+- json-server --watch ./data/db.json
+- http://localhost:3000/
 
-**dragonfly**
+How do you run tests?
+- [Go here](https://server-validation-lab-06.netlify.com/)
+- Enter ``http://localhost:3000/``
 
-</br>
+Any tests of note?
+Describe any tests that you did not complete, skipped, etc
+- All tests pass
 
-dragonfly
-
-* dragonfly
-
-</br>
-
-dragonfly
-
-> dragonfly
-
-</br>
-
-dragonfly
-
-# dragonfly
-
-</br>
-
-dragonfly
-
-& dragonfly
-
-</br>
-
-dragonfly
-
-`dragonfly`
+![Tests Passing](./assets/passing.png)
