@@ -3,12 +3,17 @@
 Author: Sian Culligan
 
 Links and Resources
-- submission PR
+GH PR:
+- https://github.com/SianCulligan/Lab06/pull/2
+
+Resource Links:
+- [Sonia's Lecture](https://www.youtube.com/watch?v=c7Fk4lbaMqM)
+- [Stack Overflow - to kick off json-server](https://stackoverflow.com/questions/33935281/command-not-found-oh-my-zsh)
 
 
 Setup/How to initialize & run your application 
-- json-server --watch ./data/db.json
-- http://localhost:3000/
+- run ``json-server --watch ./data/db.json`` from the root. 
+- enter ``http://localhost:3000/`` into your browser while the server is running
 
 How do you run tests?
 - [Go here](https://server-validation-lab-06.netlify.com/)
