@@ -1,41 +1,28 @@
 # Lab06
 
-dragonfly 
+Author: Sian Culligan
 
-*dragonfly*
+Links and Resources
+GH PR:
+- https://github.com/SianCulligan/Lab06/pull/2
 
-</br>
+Resource Links:
+- [Sonia's Lecture](https://www.youtube.com/watch?v=c7Fk4lbaMqM)
+- [Stack Overflow - to kick off json-server](https://stackoverflow.com/questions/33935281/command-not-found-oh-my-zsh)
 
-dragonfly
+Swagger Documentation
+- [Swagger Doc Link](https://app.swaggerhub.com/apis-docs/SianCulligan/default-title/0.1)
 
-**dragonfly**
+Setup/How to initialize & run your application 
+- run ``json-server --watch ./data/db.json`` from the root. 
+- enter ``http://localhost:3000/`` into your browser while the server is running
 
-</br>
+How do you run tests?
+- [Go here](https://server-validation-lab-06.netlify.com/)
+- Enter ``http://localhost:3000/``
 
-dragonfly
+Any tests of note?
+Describe any tests that you did not complete, skipped, etc
+- All tests pass
 
-* dragonfly
-
-</br>
-
-dragonfly
-
-> dragonfly
-
-</br>
-
-dragonfly
-
-# dragonfly
-
-</br>
-
-dragonfly
-
-& dragonfly
-
-</br>
-
-dragonfly
-
-`dragonfly`
+![Tests Passing](./assets/passing.png)

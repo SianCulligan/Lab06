@@ -1,0 +1,28 @@
+{
+  "name": "lab06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SianCulligan/Lab06.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SianCulligan/Lab06/issues"
+  },
+  "homepage": "https://github.com/SianCulligan/Lab06#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "g": "^2.0.1",
+    "json-server": "^0.16.1"
+  }
+}
